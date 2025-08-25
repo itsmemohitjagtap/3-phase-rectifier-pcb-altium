@@ -1,4 +1,4 @@
-@"
+
 # 3-Phase Rectifier PCB Design V1.0
 
 ## 📌 Project Overview
@@ -33,4 +33,4 @@ It demonstrates:
 
 ## 🧑‍💻 Designed By
 **Mohit Jagtap**
-"@ | Out-File -FilePath README.md -Encoding utf8
+
